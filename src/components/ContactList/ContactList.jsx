@@ -1,5 +1,5 @@
 import React from 'react';
-import ContactListItem from '../ContactListItem/ContactListItem';
+// import ContactListItem from '../ContactListItem/ContactListItem';
 
 const contactListStyle = {
   maxHeight: '200px',
